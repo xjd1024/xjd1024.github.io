@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xjd1024/xjd1024.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xjd1024/xjd1024.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+home: true
+heroImage: /knowledge-base-big.png
+actionText: 立即开始 →
+actionLink: /frontend/JavaScript/
+features:
+- title: 覆盖全面
+  details: 涵盖大前端的全部核心知识，包含 HTML、CSS、JavaScript 、MVVM 框架、ReactNative、Flutter、NodeJs、前端工程化、 数据结构与算法JavaScript实现等。
+- title: 内容深度
+  details: 深入JavaScript 运行机制、浏览器渲染原理、 MVVM 框架源码分析、掌握设计模式与编程思想。将持续保持更新。
+- title: 实践结合面试
+  details: 核心知识与日常实践、面试题相结合，既可备考面试也能在日常开发中参考。
+footer: MIT Licensed | Copyright © 2019-present jinjun
+---
